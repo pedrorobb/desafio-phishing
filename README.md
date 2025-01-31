@@ -23,3 +23,4 @@ ifconfig
  ```
 URL para clone: http://www.facebook.com
 ## Resultados
+![Resultados](./results-phishing.png)
